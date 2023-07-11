@@ -18,4 +18,4 @@ We are BTX Research, a dedicated research firm in the blockchain technology and 
 
 ## Contact Us
 
-Should you have any queries or wish to interact with our research team, feel free to reach us at [contact@btxresearch.com](mailto:contact@btxresearch.com).
+Should you have any queries or wish to interact with our research team, feel free to reach us at [contact@btxresearch.com](mailto:Hello@btx.capital).
